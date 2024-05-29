@@ -1,0 +1,52 @@
+{
+  "notebooks": {
+    "Mrr_EMo_Time_Series.ipynb": {
+      "slug": "1ba312b594b943e19a77e5cc3de9c255"
+    },
+    "Map-Age_Slab.ipynb": {
+      "slug": "0c114f2db1af476092da5e3667ecf7fe"
+    },
+    "Sumatra_FMmaps.ipynb": {
+      "slug": "7512ce9df78d4fa692ea53ca86a2992c"
+    },
+    "Sumatra Seismicity and T-P axis maps.ipynb": {
+      "slug": "02461f22d71646b28f5233e1f400250a"
+    },
+    "Slab_Megathrust_Corr_SUM.ipynb": {
+      "slug": "b931aee165224c3a8e7a1d6c920a8f78"
+    },
+    "JC classif-eqs.ipynb": {
+      "slug": "1d50c64d746a4c92b9223bb01eb5f250"
+    },
+    "JC ISC_data_analysis.ipynb": {
+      "slug": "32c25365ee8f45e0a7a97ca0b6ab8c28"
+    },
+    "JC data cleaning.ipynb": {
+      "slug": "ce4f2fc92825439683dd27d376a6ddb1"
+    },
+    "Along trench vs time.ipynb": {
+      "slug": "a8ff5afd99f4447f82470bfded6f62ed"
+    },
+    "JC_cutOff.ipynb": {
+      "slug": "ad9e39389e7240bc9f13063a2d678ec5"
+    },
+    "JC_angular_deviation_PieChart.ipynb": {
+      "slug": "f53573e80a7f4212b00d7dab54583b37"
+    },
+    "JC_viz slab and EQ.ipynb": {
+      "slug": "f2119116022f4906aa22f5db95e0b2bb"
+    },
+    "Hist_SeismicMoment_Vs_trenchDist.ipynb": {
+      "slug": "ad8015e2b79a4566a1c309220af08cbf"
+    },
+    "years vs frequency and Mo.ipynb": {
+      "slug": "0c325af155e84c22928fac370dae3dd7"
+    },
+    "years vs frequency and cum Mo.ipynb": {
+      "slug": "0c325af155e84c22928fac370dae3dd7"
+    },
+    "recent_cumulative_Mo.ipynb": {
+      "slug": "0c325af155e84c22928fac370dae3dd7"
+    }
+  }
+}
